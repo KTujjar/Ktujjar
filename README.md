@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ktujjar&show_icons=true&locale=en" alt="ktujjar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktujjar&" alt="ktujjar" /></p>
+
