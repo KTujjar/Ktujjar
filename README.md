@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [[khaledtujjar.com](khaledtujjar.com)](https://khaledtujjar.com/)
+- 👨‍💻 All of my projects are available at (https://khaledtujjar.com/)
 
 - 📫 How to reach me **khaledtujjar2002@gmail.com**
 
